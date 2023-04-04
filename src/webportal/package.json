@@ -45,7 +45,7 @@
     "compression": "~1.7.1",
     "cookie-parser": "~1.4.3",
     "copy-to-clipboard": "^3.2.0",
-    "core-js": "^3.0.1",
+    "core-js": "^3.29.1",
     "d3": "^5.9.7",
     "datatables.net-buttons-bs": "^1.5.4",
     "datatables.net-plugins": "~1.10.15",
