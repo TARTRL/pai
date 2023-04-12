@@ -24,7 +24,7 @@
     "node": "^10"
   },
   "dependencies": {
-    "@azure/storage-blob": "^12.5.0",
+    "@azure/storage-blob": "^12.13.0",
     "@kubernetes/client-node": "^0.11.0",
     "ajv": "^6.12.3",
     "ajv-merge-patch": "~4.1.0",
