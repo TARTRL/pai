@@ -33,10 +33,10 @@
     "prettier": "~2.0.5"
   },
   "dependencies": {
-    "@kubernetes/client-node": "^0.12.2",
+    "@kubernetes/client-node": "^0.18.1",
     "axios": "^0.21.2",
     "ejs": "^3.1.5",
-    "email-templates": "^7.1.0",
+    "email-templates": "^7.1.1",
     "express": "^4.16.2",
     "express-bearer-token": "^2.4.0",
     "joi": "^14.3.1",
